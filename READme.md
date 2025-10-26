@@ -33,7 +33,7 @@
 <h3>Connect With Me</h3>
 
 <p>
-  <a href="https://www.linkedin.com/in/aishwarya-a41" target="_blank">
+  <a href="https://www.linkedin.com/in/aishwarya-ashok-0496942b3/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
   </a>&nbsp;&nbsp;
 
