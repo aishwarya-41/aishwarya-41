@@ -43,5 +43,11 @@
 
    <a href="mailto:aishwaryashyamala14@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="55" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://funny-manatee-395b12.netlify.app/" target="_blank">
+    <img src="https://img.icons8.com/color/48/portfolio.png" width="55" alt="Portfolio"/>
   </a>
+
+
 </p>
